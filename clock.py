@@ -5,7 +5,7 @@ app_window.title("Digital Clock")
 app_window.geometry("420x150")
 app_window.resizable(1,1)
 
-text_font= ("Bloulder", 68, 'bold')
+text_font= ("Boulder", 68, 'bold')
 background = "#fFFF50"
 foreground = "#363529"
 border_width = 25
